@@ -35,3 +35,7 @@ metrics
 make_scorer: define a specific accuracy score
 mean_squared_error: computes mean squared error in predictions
 matplotlib.pyplot: plotting and graphics
+
+
+## Update
+This project has been revisited as an attempt to obtain a higher predictive accuracy.  Changes to data cleaning and feature engineering were made, new paramaters were tried, and a comparison to a linear regression model was explored.  These changes can be found in the Random_Forest_Regression_V2.ipynb file.  Note: the commentary needs improvement, but should outline the basic essentials of the new approach.
